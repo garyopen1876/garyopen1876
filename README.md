@@ -26,7 +26,7 @@
 
 <div style="display: flex; flex-direction: row;">
  <img class="img" src="https://github-readme-stats.vercel.app/api?username=garyopen1876&show_icons=true&theme=dark&count_private=true" />
- <img class="img" src="https://user-images.githubusercontent.com/32414355/177373920-6c590f9a-5c93-4255-94e8-3a2808f8f488.png" />
+ <img class="img" src="https://user-images.githubusercontent.com/32414355/177451665-0dad2357-5652-4df4-abde-b68dbace49e3.png" />
 </div>
 
 
