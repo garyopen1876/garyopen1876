@@ -10,14 +10,16 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 5
     steps:
-      - name: generate svg
-        uses: Platane/snk@master
+      - name: generate github-contribution-grid-snake.svg
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: garyopen1876
-          svg_out_path: dist/github-commit-snake.svg
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
           
-      - name: push svg to the output branch
-        uses: crazy-max/ghaction-github-pages@v2.5.0
+      - name: push svg to the branch - snk
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: snk
           build_dir: dist
