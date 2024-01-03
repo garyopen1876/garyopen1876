@@ -3,6 +3,7 @@ name: generate snk
 on:
   schedule:
     - cron: "0 16 * * *" 
+  workflow_dispatch:
 
 jobs:
   generate:
