@@ -37,5 +37,9 @@
  <img class="img" src="https://user-images.githubusercontent.com/32414355/177374786-f1bc2219-8dd6-447f-9823-54172f35d19b.png" />
 </div>
 
-![](https://raw.githubusercontent.com/garyopen1876/garyopen1876/snk/github-commit-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/garyopen1876/garyopen1876/snk/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/garyopen1876/garyopen1876/snk/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/garyopen1876/garyopen1876/snk/github-contribution-grid-snake.svg">
+</picture>
 
