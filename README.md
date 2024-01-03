@@ -37,7 +37,7 @@
 </div>
 
 #### Leetcode Session✨
-![Leetcode Stats] https://leetcard.jacoblin.cool/garyopen1876
+[![Leetcode Stats](https://leetcard.jacoblin.cool/garyopen1876)](https://leetcode.com/JacobLinCool)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/garyopen1876/garyopen1876/snk/github-contribution-grid-snake-dark.svg">
