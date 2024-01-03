@@ -22,6 +22,13 @@
   <img class="img" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=MUI&logoColor=white" />
 </div>
 
+#### My Most Used Languages Now ✨
+
+<div style="display: flex; flex-direction: row;">
+ <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=garyopen1876&theme=dark&layout=compact" />
+ <img class="img" src="https://user-images.githubusercontent.com/32414355/177374786-f1bc2219-8dd6-447f-9823-54172f35d19b.png" />
+</div>
+
 #### GitHub Stats ✨
 
 <div style="display: flex; flex-direction: row;">
@@ -29,13 +36,8 @@
  <img class="img" src="https://user-images.githubusercontent.com/32414355/177451665-0dad2357-5652-4df4-abde-b68dbace49e3.png" />
 </div>
 
-
-#### My Most Used Languages Now ✨
-
-<div style="display: flex; flex-direction: row;">
- <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=garyopen1876&theme=dark&layout=compact" />
- <img class="img" src="https://user-images.githubusercontent.com/32414355/177374786-f1bc2219-8dd6-447f-9823-54172f35d19b.png" />
-</div>
+#### Leetcode Session✨
+![Leetcode Stats] https://leetcard.jacoblin.cool/garyopen1876
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/garyopen1876/garyopen1876/snk/github-contribution-grid-snake-dark.svg">
